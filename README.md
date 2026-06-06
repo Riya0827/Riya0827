@@ -21,9 +21,7 @@ Software Developer | MBA (IT & Operations) | React.js Developer
 
 ---
 
-## 🛠️ Technical Skills
-
-### Frontend Development
+### 🛠️ Technical Skills
 
 * React.js
 * JavaScript (ES6+)
@@ -31,6 +29,8 @@ Software Developer | MBA (IT & Operations) | React.js Developer
 * CSS3
 * Bootstrap
 * Redux
+* python
+* SQL
 
 ### Tools & Technologies
 
@@ -48,7 +48,7 @@ Software Developer | MBA (IT & Operations) | React.js Developer
 
 Information Technology & Operations
 
-### Bachelor of Computer Applications (BCA)
+### Bachelor of Technology in Computer Science and Engineering (B.Tech CSE)
 
 ---
 
@@ -89,11 +89,12 @@ Developed responsive and scalable frontend applications using React.js and REST 
 
 ## 🌱 Currently Learning
 
-* Advanced React.js
-* Data Analytics
-* Business Analysis
-* Product Management
-* Operations Management
+- Advanced React.js Development
+- Python for Data Analytics and Data Science
+- SQL for Data Analysis and Database Management
+- Data Structures & Algorithms (DSA)
+- Business Analysis and Product Management
+- Operations and Process Optimization
 
 ---
 
