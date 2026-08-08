@@ -100,8 +100,8 @@ Developed responsive and scalable frontend applications using React.js and REST 
 
 ## 📫 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/riya-tyagi-79031b2a6](http://www.linkedin.com/in/riyatyagi08200)
-* Email: [your-email@example.com](riyatyagi082002@example.com)
+* LinkedIn: (http://www.linkedin.com/in/riyatyagi08200)(http://www.linkedin.com/in/riyatyagi08200)
+* Email: (riyatyagi082002@example.com)(riyatyagi082002@example.com)
 
 ---
 
